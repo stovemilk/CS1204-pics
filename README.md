@@ -22,11 +22,13 @@
 ![A3P1](https://github.com/stovemilk/stovemilk.github.io/blob/main/docs/assets/A3/A3P1.png)
 
 ## Assignment 4 (unfinished, but on the way)
-Code
+Code:
+
 ![C1](https://github.com/stovemilk/stovemilk.github.io/blob/main/docs/assets/A4/A4C1.png)
 ![C2](https://github.com/stovemilk/stovemilk.github.io/blob/main/docs/assets/A4/A4C2.png)
 
-Output
+Output:
+
 ![O](https://github.com/stovemilk/stovemilk.github.io/blob/main/docs/assets/A4/A4O.png)
 
 ## Final Project
