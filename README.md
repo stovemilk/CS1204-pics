@@ -20,3 +20,16 @@
 ![A3D2](https://github.com/stovemilk/stovemilk.github.io/blob/main/docs/assets/A3/A3D2.png)
 ![A3D3](https://github.com/stovemilk/stovemilk.github.io/blob/main/docs/assets/A3/A3D3.png)
 ![A3P1](https://github.com/stovemilk/stovemilk.github.io/blob/main/docs/assets/A3/A3P1.png)
+
+## Assignment 4 (unfinished, but on the way)
+
+## Final Project
+
+[Tier 1 - Celcius to Farenheit Converter](https://replit.com/join/igwlpjkgkc-stovemilk)
+![T1]()
+
+[Tier 3 - Taxi Fare Calculator](https://replit.com/join/zmmxcysmit-stovemilk)
+![T3]()
+
+[Tier 4 - Wind Chill Calculator](https://replit.com/join/egmcvtralr-stovemilk)
+![T4]()
