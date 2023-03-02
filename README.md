@@ -22,6 +22,12 @@
 ![A3P1](https://github.com/stovemilk/stovemilk.github.io/blob/main/docs/assets/A3/A3P1.png)
 
 ## Assignment 4 (unfinished, but on the way)
+Code
+![C1]()
+![C2]()
+
+Output
+![O]()
 
 ## Final Project
 
