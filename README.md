@@ -26,10 +26,10 @@
 ## Final Project
 
 [Tier 1 - Celcius to Farenheit Converter](https://replit.com/join/igwlpjkgkc-stovemilk)
-![T1]()
+![T1](https://github.com/stovemilk/stovemilk.github.io/blob/main/docs/assets/P/CS1204-PT1.png)
 
 [Tier 3 - Taxi Fare Calculator](https://replit.com/join/zmmxcysmit-stovemilk)
-![T3]()
+![T3](https://github.com/stovemilk/stovemilk.github.io/blob/main/docs/assets/P/CS1204-PT3.png)
 
 [Tier 4 - Wind Chill Calculator](https://replit.com/join/egmcvtralr-stovemilk)
-![T4]()
+![T4](https://github.com/stovemilk/stovemilk.github.io/blob/main/docs/assets/P/CS1204-PT4.png)
